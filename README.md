@@ -31,4 +31,5 @@ Overall, the Student Data app simplifies the process of managing, organizing, an
 
 <img"">![4 (1)](https://github.com/Darshan6069/Core-Flutter-Exam/assets/138776334/a1181bc4-5422-43e1-81f6-0b262a315d00)
 
-<img"">
+<img"">![delete](https://github.com/Darshan6069/Core-Flutter-Exam/assets/138776334/86e83386-2e76-450d-8f59-3a6678cdf14c)
+
