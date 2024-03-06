@@ -25,11 +25,11 @@ Updating student data is made easy through the app's intuitive interface. Users 
 
 Overall, the Student Data app simplifies the process of managing, organizing, and maintaining student information. With its ability to add, delete, and update student data, it provides a comprehensive solution for educational institutions and individuals to efficiently handle student records.
 </p>
-<img"">![1 (1)](https://github.com/Darshan6069/Core-Flutter-Exam/assets/138776334/38c48049-b7f2-4c43-bad8-e29962b6881d)
 
-<img"">![3 (1)](https://github.com/Darshan6069/Core-Flutter-Exam/assets/138776334/15aedf31-3147-4d63-a908-ddb2e84d2b23)
+<img src="https://github.com/Darshan6069/Core-Flutter-Exam/assets/138776334/38c48049-b7f2-4c43-bad8-e29962b6881d" height="500"/>
+<img src="https://github.com/Darshan6069/Core-Flutter-Exam/assets/138776334/15aedf31-3147-4d63-a908-ddb2e84d2b23" height="500"/>
+<img src="https://github.com/Darshan6069/Core-Flutter-Exam/assets/138776334/a1181bc4-5422-43e1-81f6-0b262a315d00" height="500"/>
+<img src="https://github.com/Darshan6069/Core-Flutter-Exam/assets/138776334/86e83386-2e76-450d-8f59-3a6678cdf14c" height="500"/>
 
-<img"">![4 (1)](https://github.com/Darshan6069/Core-Flutter-Exam/assets/138776334/a1181bc4-5422-43e1-81f6-0b262a315d00)
 
-<img"">![delete](https://github.com/Darshan6069/Core-Flutter-Exam/assets/138776334/86e83386-2e76-450d-8f59-3a6678cdf14c)
 
